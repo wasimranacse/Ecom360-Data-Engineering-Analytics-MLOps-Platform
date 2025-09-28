@@ -21,7 +21,7 @@ It demonstrates how to take raw eCommerce orders data and transform it into **bu
 
 ## Setup
 ```bash
-git clone https://github.com/your-username/ecom360.git
-cd ecom360
+git clone https://github.com/wasimranacse/Ecom360-Data-Engineering-Analytics-MLOps-Platform.git
+cd Ecom360-Data-Engineering-Analytics-MLOps-Platform
 pip install -r requirements.txt
 
